@@ -1,5 +1,5 @@
 
-#### For this project, I have simulated a product launch and the parts of this project: 
+#### For this project, I have simulated a Product Launch and the parts of this project: 
 ##### 1- Update the PRD with Product and Market information.
 ##### 2- Develop the Marketing and Pricing Strategy.
 ##### 3- Get Ready for Launch by:
